@@ -1,0 +1,14 @@
+# eos-user 13 TWD9.240105.004.A1 11195721 release-keys
+- manufacturer: google
+- platform: monaco
+- codename: eos
+- flavor: eos-user
+- release: 13
+- id: TWD9.240105.004.A1
+- incremental: 11195721
+- tags: release-keys
+- fingerprint: google/eos/eos:13/TWD9.240105.004.A1/11195721:user/release-keys
+- is_ab: true
+- brand: google
+- branch: eos-user-13-TWD9.240105.004.A1-11195721-release-keys
+- repo: google_eos_dump
