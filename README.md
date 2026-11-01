@@ -1,0 +1,14 @@
+# eos-user 17 CP3A.260905.002.E1 16053217 release-keys
+- manufacturer: google
+- platform: monaco
+- codename: eos
+- flavor: eos-user
+- release: 17
+- id: CP3A.260905.002.E1
+- incremental: 16053217
+- tags: release-keys
+- fingerprint: google/eos/eos:17/CP3A.260905.002.E1/16053217:user/release-keys
+- is_ab: true
+- brand: google
+- branch: eos-user-17-CP3A.260905.002.E1-16053217-release-keys
+- repo: google_eos_dump
