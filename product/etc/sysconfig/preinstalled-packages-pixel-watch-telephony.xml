@@ -1,0 +1,22 @@
+<config>
+    <!-- OMADM Service (DMService) -->
+    <install-in-user-type package="com.android.omadm.service">
+        <install-in user-type="SYSTEM" />
+    </install-in-user-type>
+    <!-- OMADM Trigger (OemDmTrigger) -->
+    <install-in-user-type package="com.google.omadm.trigger">
+        <install-in user-type="SYSTEM" />
+    </install-in-user-type>
+    <!-- OMADM ConnMO Plugin (ConnMO) -->
+    <install-in-user-type package="com.android.sdm.plugins.connmo">
+        <install-in user-type="SYSTEM" />
+    </install-in-user-type>
+    <!-- OMADM DCMO Plugin (DCMO) -->
+    <install-in-user-type package="com.android.sdm.plugins.dcmo">
+        <install-in user-type="SYSTEM" />
+    </install-in-user-type>
+    <!-- OMADM DiagMon Plugin (DiagMon) -->
+    <install-in-user-type package="com.android.sdm.plugins.diagmon">
+        <install-in user-type="SYSTEM" />
+    </install-in-user-type>
+</config>
